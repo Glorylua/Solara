@@ -1,6 +1,6 @@
 getgenv().CloneSettings = {
     Enabled = false,
-    Bind = "G",
+    Bind = "C",
     Value = 15,
     Delay = 0.05
 }
